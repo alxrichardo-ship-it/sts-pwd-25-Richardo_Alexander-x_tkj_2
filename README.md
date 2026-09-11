@@ -18,6 +18,8 @@ Perusahaan dengan nilai yang kuat dan memberdayakan masyarakat serta berkomitmen
 - Pembiayaan Syariah
 - Layanan Digital
 - Inventasi
+# Logo BSI
+![Logo BSI](foto/logo%20bank%20syariah%20indonesia.jpg)
 # Kontak/Alamat
 - Kontak : 0815-8411-4040
 - Alamat :  Gedung The Tower, Jl. Gatot Subroto No. 27, Kelurahan Karet Semanggi, Kecamatan Setiabudi, Jakarta Selatan 12930
@@ -30,3 +32,5 @@ https://www.bankbsi.co.id/company-information/tentang-kami
 Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung.
 # Cara Buka Website
 http://127.0.0.1:5500/index.html
+# Cara Buka Linknya
+Klik kanan pada folder HTML lalu pencet live server atau shortcutnya alt + l + alt + o 
